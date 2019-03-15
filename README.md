@@ -7,7 +7,7 @@ Features of the MP3 player:
 - stop the .mp3 file;
 - pause of the .mp3 file;
 - resumption of playing the .mp3 file;
-- scroll to the next .mp3 file;
-- scroll to the previous .mp3 file;
+- play to the next .mp3 file;
+- play to the previous .mp3 file;
 *
 * */
