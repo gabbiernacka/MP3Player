@@ -10,4 +10,4 @@ Features of the MP3 player:
 - play to the next .mp3 file;
 - play to the previous .mp3 file;
 
-![image description](https://drive.google.com/file/d/1fmhaxLBNFjz7pdrNgImjuLq7fhscySY2/view?usp=sharing)
+![image](https://drive.google.com/file/d/1G18zGrs1vUpfePxA-EBixtbJKttnEE-j/view?usp=sharing)
